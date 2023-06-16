@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tao Ruijie (陶睿杰)"
+title                    : "Wang Jiadong (王家栋)"
 description              : "PhD student at National University of Singapore"
-repository               : "taoruijie.github.io"
+repository               : "wangjiadong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
