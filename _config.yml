@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=32kdJz8AAAAJ&hl=en"
-  email            : "jiadong.wang@u.nus.edu1"
+  email            : "jiadong.wang@u.nus.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -43,7 +43,6 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-#   linkedin         : "tao-ruijie-38137516a"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -55,7 +54,6 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://space.bilibili.com/194466325?spm_id_from=333.1007.0.0"
   wikipedia        :
 
 
