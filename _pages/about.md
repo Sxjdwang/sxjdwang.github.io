@@ -45,9 +45,9 @@ My research interests are audio-visual speech recognition, talking face generati
 - [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Seeing_What_You_Said_Talking_Face_Generation_Guided_by_a_CVPR_2023_paper.pdf), **Jiadong Wang**, Xinyuan Qian, Malu Zhang, Robby T Tan, Haizhou Li, **CVPR**, 2023. [![](https://img.shields.io/github/stars/Sxjdwang/TalkLip?style=social&label=Code+Stars)](https://github.com/Sxjdwang/TalkLip)
 
 **2022**
-- Deep Cross-modal Retrieval between Space Image and Acoustic Speech, Xinyuan Qian, Wei Xue, Qiquan Zhang, **Ruijie Tao** and Haizhou Li, **submit to TMM**, 2022. 
-- [Self-supervised Speaker Recognition with Loss-gated Learning](https://arxiv.org/pdf/2110.03869.pdf), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li. **ICASSP**, 2022, [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=Code+Stars)](https://github.com/TaoRuijie/Loss-Gated-Learning)
-- [Selective Hearing through Lip-reading](https://arxiv.org/pdf/2106.07150.pdf), Zexu Pan, **Ruijie Tao**, Chenglin Xu, Haizhou Li, **TASLP**, 2022.
+- [Predict-and-Update Network: Audio-Visual Speech Recognition Inspired by Human Speech Perception](https://arxiv.org/pdf/2209.01768.pdf), **Jiadong Wang**, Xinyuan Qian, Haizhou Li, **TASLP (under review)**, 2022.
+- [A Hybrid Learning Framework for Deep Spiking Neural Networks with One-Spike Temporal Coding](https://ieeexplore.ieee.org/abstract/document/9746792/), **Jiadong Wang**, Jibin Wu, Malu Zhang, Qi Liu, Haizhou Li. **ICASSP**, 2022.
+- [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9968308), Xinyuan Qian, Zhengdong Wang, **Jiadong Wang**, Guohui Guan, Haizhou Li, **TASLP**, 2022.
 - [Ego4D: Around the World in 3,000 Hours of Egocentric Video](https://arxiv.org/pdf/2110.07058.pdf), Kristen Grauman, Andrew Westbury, Eugene Byrne, ..., **Ruijie Tao**, ..., et al, **CVPR**, <font color="red">Oral</font>, 2022. [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Code+Stars)](https://github.com/facebookresearch/Ego4d)
 
 **2021**
