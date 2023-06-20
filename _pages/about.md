@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student at the National University of Singapore (NUS), supervised by Prof. [Li Haizhou](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en) and Prof. [Robby T. Tan](https://scholar.google.com/citations?user=MOD0gv4AAAAJ&hl=en&oi=ao). Prior to that, I received the Master's Degree from Zhejiang University in 2019 and Bachelor's Degree from Northeastern University (China) in 2016.
 
-My research interests are audio-visual speech recognition, talking face generation, and audio-visual sound source localization. I have published more than 10 papers at the top international AI conferences and journals such as TASLP, ACM MM, ICASSP, INTERSPEECH. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=32kdJz8AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests are audio-visual speech recognition, talking face generation, and audio-visual sound source localization. I have 10 papers published or under review at top international conferences and journals, including CVPR, TASLP, ACM MM, ICRA, and ICASSP. <a href='https://scholar.google.com/citations?user=32kdJz8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Fsxjdwang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
@@ -42,9 +42,7 @@ My research interests are audio-visual speech recognition, talking face generati
 # 📝 Publication
 
 **2023**
-- [Target Active Speaker Detection with Audio-visual Cues](https://arxiv.org/pdf/2305.12831.pdf), Yidi Jiang, **Ruijie Tao**, Zexu Pan and Haizhou Li, **INTERSPEECH**, 2023. [![](https://img.shields.io/github/stars/Jiang-Yidi/TS-TalkNet?style=social&label=Code+Stars)](https://github.com/Jiang-Yidi/TS-TalkNet)
-- [Self-Supervised Training of Speaker Encoder with Multi-Modal Diverse Positive Pairs](https://ieeexplore.ieee.org/document/10106039), **Ruijie Tao**, Kong Aik Lee, Rohan Kumar Das, Ville Hautamäki and Haizhou Li, **TASLP**, 2023. 
-- [Speaker recognition with two-step multi-modal deep cleansing](https://arxiv.org/pdf/2210.15903.pdf), **Ruijie Tao**, Kong Aik Lee, Shi Zhan and Haizhou Li, **ICASSP**, 2023. [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=Code+Stars)](https://github.com/TaoRuijie/AVCleanse)
+- [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Seeing_What_You_Said_Talking_Face_Generation_Guided_by_a_CVPR_2023_paper.pdf), **Jiadong Wang**, Xinyuan Qian, Malu Zhang, Robby T Tan, Haizhou Li, **CVPR**, 2023. [![](https://img.shields.io/github/stars/Sxjdwang/TalkLip?style=social&label=Code+Stars)](https://github.com/Sxjdwang/TalkLip)
 
 **2022**
 - Deep Cross-modal Retrieval between Space Image and Acoustic Speech, Xinyuan Qian, Wei Xue, Qiquan Zhang, **Ruijie Tao** and Haizhou Li, **submit to TMM**, 2022. 
