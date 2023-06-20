@@ -47,21 +47,16 @@ My research interests are audio-visual speech recognition, talking face generati
 **2022**
 - [Predict-and-Update Network: Audio-Visual Speech Recognition Inspired by Human Speech Perception](https://arxiv.org/pdf/2209.01768.pdf), **Jiadong Wang**, Xinyuan Qian, Haizhou Li, **TASLP (under review)**, 2022.
 - [A Hybrid Learning Framework for Deep Spiking Neural Networks with One-Spike Temporal Coding](https://ieeexplore.ieee.org/abstract/document/9746792/), **Jiadong Wang**, Jibin Wu, Malu Zhang, Qi Liu, Haizhou Li. **ICASSP**, 2022.
-- [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9968308), Xinyuan Qian, Zhengdong Wang, **Jiadong Wang**, Guohui Guan, Haizhou Li, **TASLP**, 2022.
-- [Ego4D: Around the World in 3,000 Hours of Egocentric Video](https://arxiv.org/pdf/2110.07058.pdf), Kristen Grauman, Andrew Westbury, Eugene Byrne, ..., **Ruijie Tao**, ..., et al, **CVPR**, <font color="red">Oral</font>, 2022. [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Code+Stars)](https://github.com/facebookresearch/Ego4d)
+- [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9968308), Xinyuan Qian, Zhengdong Wang, **Jiadong Wang***, Guohui Guan, Haizhou Li, **TASLP**, 2022.
 
 **2021**
 
-- [Is Someone Speaking? Exploring Long-term Temporal Features for Audio-visual Active Speaker Detection](https://arxiv.org/pdf/2107.06592.pdf), **Ruijie Tao**, Zexu Pan, Rohan Kumar Das, Xinyuan Qian, Mike Zheng Shou, Haizhou Li, **ACM Multimedia**, <font color="red">Oral</font>, 2021, [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=Code+Stars)](https://github.com/TaoRuijie/TalkNet_ASD)
-- [NUS-HLT Report for ActivityNet Challenge 2021 AVA (Speaker)](https://static.googleusercontent.com/media/research.google.com/zh-CN//ava/2021/S3_NUS_Report_AVA_ActiveSpeaker_2021.pdf), **Ruijie Tao**, Zexu Pan, Rohan Kumar Das, Xinyuan Qian, Mike Zheng Shou, Haizhou Li, **CVPR Workshop Report**, 2021.
-- [Muse: Multi-modal target speaker extraction with visual cues](https://arxiv.org/pdf/2010.07775.pdf), Zexu Pan, **Ruijie Tao**, Chenglin Xu, and Haizhou Li, **ICASSP**, 2021. 
-- [HLT-NUS Submission for 2020 NIST Conversational Telephone Speech SRE](https://arxiv.org/pdf/2111.06671.pdf), Rohan Kumar Das, **Ruijie Tao** and Haizhou Li, **arxiv**, 2021. [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=Code+Stars)](https://github.com/TaoRuijie/ECAPATDNN)
-- [I4U System Description for NIST SRE'20 CTS Challenge](https://arxiv.org/pdf/2211.01091.pdf), Kong Aik Lee, Tomi Kinnunen, Daniele Colibro, ..., **Ruijie Tao**, ..., et al, **arxiv**, 2021.
+- [GCC-PHAT with speech-oriented attention for robotic sound source localization](https://www.researchgate.net/profile/Jiadong-Wang-7/publication/354983550_GCC-PHAT_with_Speech-oriented_Attention_for_Robotic_Sound_Source_Localization/links/61567c6f4a82eb7cb5d81096/GCC-PHAT-with-Speech-oriented-Attention-for-Robotic-Sound-Source-Localization.pdf), Jiadong Wang, Xinyuan Qian, Zihan Pan, Malu Zhang, Haizhou Li, **ICRA**, 2021.
+- [Rectified linear postsynaptic potential function for backpropagation in deep spiking neural networks](https://arxiv.org/pdf/2003.11837.pdf), Malu Zhang, Jiadong Wang, Jibin Wu, Ammar Belatreche, Burin Amornpaisannon, Zhixuan Zhang, Venkata Pavan Kumar Miriyala, Hong Qu, Yansong Chua, Trevor E Carlson, Haizhou Li, **TNNLS**, 2021.
+- [Zihan Pan, Malu Zhang, Jibin Wu, Jiadong Wang, Haizhou Li](https://ieeexplore.ieee.org/abstract/document/9502013/), Zihan Pan, Malu Zhang, Jibin Wu, Jiadong Wang, Haizhou Li, **TASLP**, 2021.
+- [Three-Dimensional Speaker Localization: Audio-Refined Visual Scaling Factor Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9466446), Xinyuan Qian, Qi Liu, Jiadong Wang, Haizhou Li, **Signal Processing Letters**, 2021.
+- [Multi-target DoA estimation with an audio-visual fusion mechanism](https://arxiv.org/pdf/2105.06107.pdf), Xinyuan Qian, Maulik Madhavi, Zexu Pan, Jiadong Wang, Haizhou Li, **ICASSP**, 2021.
 
-**2020** 
-
-- [Audio-visual Speaker Recognition with a Cross-modal Discriminative Network](https://arxiv.org/abs/2008.03894), **Ruijie Tao**, Rohan Kumar Das and Haizhou Li, **INTERSPEECH**, 2020.
-- [HLT-NUS Submission for 2019 NIST Multimedia Speaker Recognition Evaluation](http://www.apsipa.org/proceedings/2020/pdfs/0000605.pdf), Rohan Kumar Das, **Ruijie Tao**, Jichen Yang, Wei Rao, Cheng Yu and Haizhou Li, **APSIPA**, 2020. 
 
 # 💻 Open Source Code
 - *Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/TaoRuijie/ECAPATDNN)
