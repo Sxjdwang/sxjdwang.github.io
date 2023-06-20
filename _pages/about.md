@@ -51,40 +51,23 @@ My research interests are audio-visual speech recognition, talking face generati
 
 **2021**
 
-- [GCC-PHAT with speech-oriented attention for robotic sound source localization](https://www.researchgate.net/profile/Jiadong-Wang-7/publication/354983550_GCC-PHAT_with_Speech-oriented_Attention_for_Robotic_Sound_Source_Localization/links/61567c6f4a82eb7cb5d81096/GCC-PHAT-with-Speech-oriented-Attention-for-Robotic-Sound-Source-Localization.pdf), Jiadong Wang, Xinyuan Qian, Zihan Pan, Malu Zhang, Haizhou Li, **ICRA**, 2021.
-- [Rectified linear postsynaptic potential function for backpropagation in deep spiking neural networks](https://arxiv.org/pdf/2003.11837.pdf), Malu Zhang, Jiadong Wang, Jibin Wu, Ammar Belatreche, Burin Amornpaisannon, Zhixuan Zhang, Venkata Pavan Kumar Miriyala, Hong Qu, Yansong Chua, Trevor E Carlson, Haizhou Li, **TNNLS**, 2021.
-- [Zihan Pan, Malu Zhang, Jibin Wu, Jiadong Wang, Haizhou Li](https://ieeexplore.ieee.org/abstract/document/9502013/), Zihan Pan, Malu Zhang, Jibin Wu, Jiadong Wang, Haizhou Li, **TASLP**, 2021.
-- [Three-Dimensional Speaker Localization: Audio-Refined Visual Scaling Factor Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9466446), Xinyuan Qian, Qi Liu, Jiadong Wang, Haizhou Li, **Signal Processing Letters**, 2021.
-- [Multi-target DoA estimation with an audio-visual fusion mechanism](https://arxiv.org/pdf/2105.06107.pdf), Xinyuan Qian, Maulik Madhavi, Zexu Pan, Jiadong Wang, Haizhou Li, **ICASSP**, 2021.
+- [GCC-PHAT with speech-oriented attention for robotic sound source localization](https://www.researchgate.net/profile/Jiadong-Wang-7/publication/354983550_GCC-PHAT_with_Speech-oriented_Attention_for_Robotic_Sound_Source_Localization/links/61567c6f4a82eb7cb5d81096/GCC-PHAT-with-Speech-oriented-Attention-for-Robotic-Sound-Source-Localization.pdf), **Jiadong Wang**, Xinyuan Qian, Zihan Pan, Malu Zhang, Haizhou Li, **ICRA**, 2021.
+- [Rectified linear postsynaptic potential function for backpropagation in deep spiking neural networks](https://arxiv.org/pdf/2003.11837.pdf), Malu Zhang, **Jiadong Wang***, Jibin Wu, Ammar Belatreche, Burin Amornpaisannon, Zhixuan Zhang, Venkata Pavan Kumar Miriyala, Hong Qu, Yansong Chua, Trevor E Carlson, Haizhou Li, **TNNLS**, 2021.
+- [Zihan Pan, Malu Zhang, Jibin Wu, Jiadong Wang, Haizhou Li](https://ieeexplore.ieee.org/abstract/document/9502013/), Zihan Pan, Malu Zhang, Jibin Wu, **Jiadong Wang**, Haizhou Li, **TASLP**, 2021.
+- [Three-Dimensional Speaker Localization: Audio-Refined Visual Scaling Factor Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9466446), Xinyuan Qian, Qi Liu, **Jiadong Wang**, Haizhou Li, **Signal Processing Letters**, 2021.
+- [Multi-target DoA estimation with an audio-visual fusion mechanism](https://arxiv.org/pdf/2105.06107.pdf), Xinyuan Qian, Maulik Madhavi, Zexu Pan, **Jiadong Wang**, Haizhou Li, **ICASSP**, 2021.
 
 
 # 💻 Open Source Code
-- *Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/ECAPATDNN?style=social&label=ECAPA-TDNN)](https://github.com/TaoRuijie/ECAPATDNN)
-- *Active Speaker Detection Framework* [![](https://img.shields.io/github/stars/TaoRuijie/TalkNet_ASD?style=social&label=TalkNet-ASD)](https://github.com/TaoRuijie/TalkNet_ASD)
-- *Self-supervised Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/Loss-Gated-Learning?style=social&label=LGL)](https://github.com/TaoRuijie/Loss-Gated-Learning)
-- *Audio-visual Speaker Recognition Framework* [![](https://img.shields.io/github/stars/TaoRuijie/AVCleanse?style=social&label=AVCleanse)](https://github.com/TaoRuijie/AVCleanse)
-- *Ego4d Benchmark* [![](https://img.shields.io/github/stars/facebookresearch/Ego4d?style=social&label=Ego4d)](https://github.com/facebookresearch/Ego4d)
+- *TalkLip, talking face generation* [![](https://img.shields.io/github/stars/Sxjdwang/TalkLip?style=social&label=Code+Stars)](https://github.com/Sxjdwang/TalkLip)
+
 
 # 👔 Internship and Visiting Experience
 
 - *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
-- *2015.07 - 2015.08*, Visiting Student, University of Cambridge, Cambridge, UK.
-
-# 🎖 Others
-
-**Award**
-
-- PREMIA Best Student Paper Award, 2022
-- The 2nd place winner in NIST Speaker Recognition Evaluation (SRE), 2021
-- The 3rd place winner in the ActivityNet Challenge (Speaker), CVPR Workshop, 2021
-- NUS Research Scholarship, 2019
 
 **Reviewer**
 
-- Reviewer of CVPR, SPL
+- Reviewer of CVPR, ACM MM
 
-**Teaching**
-
-- EE3801 Data Engineering Principles, NUS undergraduate course
-- EE5132 Wireless and Sensor Networks, NUS graduate course
 
