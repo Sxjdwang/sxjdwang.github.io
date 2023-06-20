@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in National University of Singapore (NUS), supervised by Prof. [Li Haizhou]([https://colips.org/~eleliha/](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en)) and Prof. [Wang Xinchao](https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en). Prior to that, I received the Master's Degree from NUS in 2019 and Bachelor's Degree from Soochow University in 2018.
+I am a PhD student at the National University of Singapore (NUS), supervised by Prof. [Li Haizhou]([https://colips.org/~eleliha/](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en)) and Prof. [Robby T. Tan]([https://scholar.google.ch/citations?user=w69Buq0AAAAJ&hl=en](https://scholar.google.com/citations?user=MOD0gv4AAAAJ&hl=en&oi=ao)). Prior to that, I received the Master's Degree from Zhejiang University in 2019 and Bachelor's Degree from Northeastern University (China) in 2016.
 
-My research interest Audio-visual speech processing, includes speaker recognition, active speaker detection, self-supervised learning. I have published more than 10 papers at the top international AI conferences and journals such as TASLP, ACM MM, ICASSP, INTERSPEECH. <a href='https://scholar.google.com/citations?user=sdXITx8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaoRuijie%2Ftaoruijie.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interests are audio-visual speech recognition, talking face generation, and audio-visual sound source localization. I have published more than 10 papers at the top international AI conferences and journals such as TASLP, ACM MM, ICASSP, INTERSPEECH. <a href='[https://scholar.google.com/citations?user=sdXITx8AAAAJ](https://scholar.google.com/citations?user=32kdJz8AAAAJ&hl=en)'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaoRuijie%2Ftaoruijie.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
@@ -35,9 +35,9 @@ My research interest Audio-visual speech processing, includes speaker recognitio
 
 # 🏫 Education
 
-- *2019.08 - 2023.08*, Ph.D. in Speech Processing and Computer Vision, National University of Singapore (NUS), Singapore.
-- *2018.08 - 2019.06*, M.Sc. in Electronic and Computer Engineer, National University of Singapore (NUS), Singapore.
-- *2014.09 - 2018.06*, B.Eng. in Electronic Engineer, Soochow University, Suzhou, China.
+- *2019.08 - 2023.08*, Ph.D. in Electrical and Computer Engineering, National University of Singapore, Singapore.
+- *2016.08 - 2019.06*, M.Sc. in Control Engineering, Zhejiang Univerisity, China.
+- *2012.09 - 2016.06*, B.Eng. in Automation, Northeastern University, China.
 
 # 📝 Publication
 
