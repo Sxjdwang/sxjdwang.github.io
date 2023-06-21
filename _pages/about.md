@@ -24,12 +24,8 @@ My research interests are audio-visual speech recognition, talking face generati
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp;&nbsp; Speaker recognition and verification; Speech separation </td>
-    <td style="border: none;"> <font color="#0b5394"> Computer Vision </font>: <BR>&nbsp;&nbsp; Face recognition; Face detection; Lip reading</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Multi-modal Processing </font>: <BR>&nbsp;&nbsp; Audio-visual active speaker detection</td>
-    <td style="border: none;"> <font color="#0b5394"> Self-supervised Learning </font>: <BR>&nbsp;&nbsp; Self-supervised speech processing </td>
+    <td style="border: none;"> <font color="#0b5394"> Video Synthesize </font>: <BR>&nbsp;&nbsp; Talking Face Generation; Image Restoration </td>
+    <td style="border: none;"> <font color="#0b5394"> Audio-Visual Speech Processing </font>: <BR>&nbsp;&nbsp; Audio-visual speech recognition; lip reading</td>
   </tr>
 </table>
 
