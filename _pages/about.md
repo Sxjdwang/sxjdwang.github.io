@@ -60,6 +60,7 @@ My research interests are audio-visual speech recognition, talking face generati
 
 # 👔 Internship and Visiting Experience
 
+- *2018.07 - 2018.12*, Visiting Student, Agency for Science, Technology and Research (A*STAR), Singapore, Singapore.
 - *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
 
 **Reviewer**
