@@ -49,7 +49,7 @@ My research interests are audio-visual speech recognition, talking face generati
 
 - [GCC-PHAT with speech-oriented attention for robotic sound source localization](https://www.researchgate.net/profile/Jiadong-Wang-7/publication/354983550_GCC-PHAT_with_Speech-oriented_Attention_for_Robotic_Sound_Source_Localization/links/61567c6f4a82eb7cb5d81096/GCC-PHAT-with-Speech-oriented-Attention-for-Robotic-Sound-Source-Localization.pdf), **Jiadong Wang**, Xinyuan Qian, Zihan Pan, Malu Zhang, Haizhou Li, **ICRA**, 2021.
 - [Rectified linear postsynaptic potential function for backpropagation in deep spiking neural networks](https://arxiv.org/pdf/2003.11837.pdf), Malu Zhang, **Jiadong Wang***, Jibin Wu, Ammar Belatreche, Burin Amornpaisannon, Zhixuan Zhang, Venkata Pavan Kumar Miriyala, Hong Qu, Yansong Chua, Trevor E Carlson, Haizhou Li, **TNNLS**, 2021.
-- [Zihan Pan, Malu Zhang, Jibin Wu, Jiadong Wang, Haizhou Li](https://ieeexplore.ieee.org/abstract/document/9502013/), Zihan Pan, Malu Zhang, Jibin Wu, **Jiadong Wang**, Haizhou Li, **TASLP**, 2021.
+- [Multi-tone phase coding of interaural time difference for sound source localization with spiking neural networks](https://ieeexplore.ieee.org/abstract/document/9502013/), Zihan Pan, Malu Zhang, Jibin Wu, **Jiadong Wang**, Haizhou Li, **TASLP**, 2021.
 - [Three-Dimensional Speaker Localization: Audio-Refined Visual Scaling Factor Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9466446), Xinyuan Qian, Qi Liu, **Jiadong Wang**, Haizhou Li, **Signal Processing Letters**, 2021.
 - [Multi-target DoA estimation with an audio-visual fusion mechanism](https://arxiv.org/pdf/2105.06107.pdf), Xinyuan Qian, Maulik Madhavi, Zexu Pan, **Jiadong Wang**, Haizhou Li, **ICASSP**, 2021.
 
