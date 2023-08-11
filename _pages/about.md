@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student at the National University of Singapore (NUS), supervised by Prof. [Li Haizhou](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en) and Prof. [Robby T. Tan](https://scholar.google.com/citations?user=MOD0gv4AAAAJ&hl=en&oi=ao). Prior to that, I received the Master's Degree from Zhejiang University in 2019 and Bachelor's Degree from Northeastern University (China) in 2016.
 
-My research interests are audio-visual speech recognition, talking face generation, and audio-visual sound source localization. I have 10 papers published or under review at top international conferences and journals, including CVPR, TASLP, ACM MM, ICRA, and ICASSP.
+My research interests are audio-visual speech recognition, talking face generation, and audio-visual sound source localization. I have 10 papers published or under review at top international conferences and journals, including CVPR, TASLP, ICRA, and ICASSP.
 
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
