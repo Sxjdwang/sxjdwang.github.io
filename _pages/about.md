@@ -24,14 +24,14 @@ My research interests are audio-visual speech recognition, talking face generati
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Audio-Visual Speech Processing </font>: <BR>&nbsp;&nbsp; Audio-visual speech recognition; lip reading; Sound Source localization</td>
+    <td style="border: none;"> <font color="#0b5394"> Audio-Visual Speech Processing </font>: <BR>&nbsp;&nbsp; Audio-visual speech recognition; Sound Source localization</td>
     <td style="border: none;"> <font color="#0b5394"> Video Synthesize </font>: <BR>&nbsp;&nbsp; Talking Face Generation </td>
   </tr>
 </table>
 
 # 🏫 Education
 
-- *2019.08 - 2023.08*, Ph.D. in Electrical and Computer Engineering, National University of Singapore, Singapore.
+- *2019.08 - Now, Ph.D. in Electrical and Computer Engineering, National University of Singapore, Singapore.
 - *2016.08 - 2019.06*, M.Sc. in Control Engineering, Zhejiang Univerisity, China.
 - *2012.09 - 2016.06*, B.Eng. in Automation, Northeastern University, China.
 
