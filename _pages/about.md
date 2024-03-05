@@ -31,7 +31,7 @@ My research interests are audio-visual speech recognition, talking face generati
 
 # 🏫 Education
 
-- *2019.08 - Present*, Ph.D. in Electrical and Computer Engineering, National University of Singapore, Singapore.
+- *2019.08 - 2024.02*, Ph.D. in Electrical and Computer Engineering, National University of Singapore, Singapore.
 - *2016.08 - 2019.06*, M.Sc. in Control Engineering, Zhejiang Univerisity, China.
 - *2012.09 - 2016.06*, B.Eng. in Automation, Northeastern University, China.
 
@@ -67,6 +67,6 @@ My research interests are audio-visual speech recognition, talking face generati
 
 **Reviewer**
 
-- Reviewer of CVPR, ACM MM, IROS
+- Reviewer of ICCV, ECCV, ACM MM, IROS
 
 
