@@ -45,7 +45,7 @@ My research interests are audio-visual speech recognition, talking face generati
 **2022**
 - [Predict-and-Update Network: Audio-Visual Speech Recognition Inspired by Human Speech Perception](https://arxiv.org/pdf/2209.01768.pdf), **Jiadong Wang**, Xinyuan Qian, Haizhou Li, **TASLP (under review)**, 2022.
 - [A Hybrid Learning Framework for Deep Spiking Neural Networks with One-Spike Temporal Coding](https://ieeexplore.ieee.org/abstract/document/9746792/), **Jiadong Wang**, Jibin Wu, Malu Zhang, Qi Liu, Haizhou Li. **ICASSP**, 2022.
-- [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9968308), Xinyuan Qian, Zhengdong Wang, **Jiadong Wang***, Guohui Guan, Haizhou Li, **TASLP**, 2022.
+- [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9968308), Xinyuan Qian, Zhengdong Wang, **Jiadong Wang***, Guohui Guan, Haizhou Li, **TASLP**, 2022. [![](https://img.shields.io/github/stars/catherine-qian/TASLP2022-AVRI?style=social&label=Code+Stars)](https://github.com/catherine-qian/TASLP2022-AVRI)
 
 **2021**
 
