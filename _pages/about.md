@@ -29,6 +29,11 @@ My research interests are audio-visual speech recognition, talking face generati
   </tr>
 </table>
 
+# 💼 Employment
+
+- *2024.04 - Now*, Postdoctor in Technical University of Munich, Germany.
+- *2023.08 - 2024.03*, Postdoctor in Chinese University of Hong kong, Shenzhen, China.
+
 # 🏫 Education
 
 - *2019.08 - 2024.02*, Ph.D. in Electrical and Computer Engineering, National University of Singapore, Singapore.
