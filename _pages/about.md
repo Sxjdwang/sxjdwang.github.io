@@ -62,7 +62,7 @@ My research interests are audio-visual speech recognition, talking face generati
 
 
 # 💻 Open Source Code
-- *TalkLip, talking face generation* [![](https://img.shields.io/github/stars/Sxjdwang/TalkLip?style=social&label=Code+Stars)](https://github.com/Sxjdwang/TalkLip)
+- *TalkLip, Talking Face Generation* [![](https://img.shields.io/github/stars/Sxjdwang/TalkLip?style=social&label=Code+Stars)](https://github.com/Sxjdwang/TalkLip)
 - *AVRI, Dataset and Codes, Audio-Visual Speaker Tracking* [![](https://img.shields.io/github/stars/catherine-qian/TASLP2022-AVRI?style=social&label=Code+Stars)](https://github.com/catherine-qian/TASLP2022-AVRI)
 
 
