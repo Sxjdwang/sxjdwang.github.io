@@ -42,8 +42,8 @@ My research interests are audio-visual speech recognition, talking face generati
 
 # 📝 Publication
 **2024**
-- [Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal](https://arxiv.org/abs/2407.16957) Yeying Jin, Xin Li, **Jiadong Wang**, Yan Zhang, Malu Zhang, **ECCV**, 2024. [![](https://img.shields.io/github/stars/jinyeying/RaindropClarity?style=social&label=Code+Stars)](https://github.com/jinyeying/RaindropClarity)
-- [Restoring Speaking Lips from Occlusion for Audio-Visual Speech Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/29882) **Jiadong Wang**, Zexu Pan, Malu Zhang, Robby T. Tan, Haizhou Li, **AAAI**, 2024.
+- [Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal](https://arxiv.org/abs/2407.16957), Yeying Jin, Xin Li, **Jiadong Wang**, Yan Zhang, Malu Zhang, **ECCV**, 2024. [![](https://img.shields.io/github/stars/jinyeying/RaindropClarity?style=social&label=Code+Stars)](https://github.com/jinyeying/RaindropClarity)
+- [Restoring Speaking Lips from Occlusion for Audio-Visual Speech Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/29882), **Jiadong Wang**, Zexu Pan, Malu Zhang, Robby T. Tan, Haizhou Li, **AAAI**, 2024.
   
 **2023**
 - [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Seeing_What_You_Said_Talking_Face_Generation_Guided_by_a_CVPR_2023_paper.pdf), **Jiadong Wang**, Xinyuan Qian, Malu Zhang, Robby T. Tan, Haizhou Li, **CVPR**, 2023. [![](https://img.shields.io/github/stars/Sxjdwang/TalkLip?style=social&label=Code+Stars)](https://github.com/Sxjdwang/TalkLip)
