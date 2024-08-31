@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Wang Jiadong"
-  avatar           : "images/2_photo.jpeg"
+  avatar           : "images/2_Photo.jpeg"
   bio              : "[Curriculum Vitae]"
   location         : "Singapore"
   employer         :
