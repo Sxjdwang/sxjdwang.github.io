@@ -42,6 +42,7 @@ My research interests are audio-visual speech recognition, talking face generati
 
 # 📝 Publication
 **2024**
+- [Enhancing Real-World Active Speaker Detection with Multi-Modal Extraction Pre-Training](https://arxiv.org/abs/2404.00861), Ruijie Tao, Xinyuan Qian, Rohan Kumar Das, Xiaoxue Gao, **Jiadong Wang***, Haizhou Li, **TMM**, 2024.
 - [Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal](https://arxiv.org/abs/2407.16957), Yeying Jin, Xin Li, **Jiadong Wang**, Yan Zhang, Malu Zhang, **ECCV**, 2024. [![](https://img.shields.io/github/stars/jinyeying/RaindropClarity?style=social&label=Code+Stars)](https://github.com/jinyeying/RaindropClarity)
 - [Restoring Speaking Lips from Occlusion for Audio-Visual Speech Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/29882), **Jiadong Wang**, Zexu Pan, Malu Zhang, Robby T. Tan, Haizhou Li, **AAAI**, 2024.
   
