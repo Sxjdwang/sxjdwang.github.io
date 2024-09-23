@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Postdoctor at the Technical University of Munich (TUM), under Prof. [Bjorn Schuller](https://scholar.google.com/citations?user=TxKNCSoAAAAJ&hl=en&oi=ao). I received my Ph.D. degree from National University of Singapore, supervised by Prof. [Li Haizhou](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en) and Prof. [Robby T. Tan](https://scholar.google.com/citations?user=MOD0gv4AAAAJ&hl=en&oi=ao). Prior to that, I received the Master's Degree from Zhejiang University in 2019, supervised by Prof. Li Ping and Prof. Ren Qinyuan. I was awarded a Bachelor's Degree by Northeastern University (China) in 2016.
 
-My research interests are audio-visual speech recognition, talking face generation, and audio-visual sound source localization. I have 15 papers published or under review at top international conferences and journals, including CVPR, TASLP, TNNLS, AAAI, ICRA, and ICASSP.
+My research interests are audio-visual speech recognition, talking face generation, and audio-visual sound source localization. I have 15 papers published or under review at top international conferences and journals, including CVPR, TASLP, TNNLS, TMM, AAAI, ICRA, and ICASSP.
 
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
@@ -75,6 +75,6 @@ My research interests are audio-visual speech recognition, talking face generati
 
 **Reviewer**
 
-- Reviewer of ICCV, ECCV, ACM MM, SIGGRAPH ASIA, IROS
+- Reviewer of ICCV, ECCV, ACM MM, TMM, SIGGRAPH ASIA, IROS.
 
 
