@@ -42,6 +42,7 @@ My research interests are audio-visual speech recognition, talking face generati
 
 # 📝 Publication
 **2024**
+- [Predict-and-Update Network: Audio-Visual Speech Recognition Inspired by Human Speech Perception](https://arxiv.org/pdf/2209.01768.pdf), **Jiadong Wang**, Xinyuan Qian, Haizhou Li, **TASLP**, 2024.
 - [Enhancing Real-World Active Speaker Detection with Multi-Modal Extraction Pre-Training](https://arxiv.org/abs/2404.00861), Ruijie Tao, Xinyuan Qian, Rohan Kumar Das, Xiaoxue Gao, **Jiadong Wang***, Haizhou Li, **TMM**, 2024.
 - [Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal](https://arxiv.org/abs/2407.16957), Yeying Jin, Xin Li, **Jiadong Wang**, Yan Zhang, Malu Zhang, **ECCV**, 2024. [![](https://img.shields.io/github/stars/jinyeying/RaindropClarity?style=social&label=Code+Stars)](https://github.com/jinyeying/RaindropClarity)
 - [Restoring Speaking Lips from Occlusion for Audio-Visual Speech Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/29882), **Jiadong Wang**, Zexu Pan, Malu Zhang, Robby T. Tan, Haizhou Li, **AAAI**, 2024.
@@ -50,7 +51,6 @@ My research interests are audio-visual speech recognition, talking face generati
 - [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Seeing_What_You_Said_Talking_Face_Generation_Guided_by_a_CVPR_2023_paper.pdf), **Jiadong Wang**, Xinyuan Qian, Malu Zhang, Robby T. Tan, Haizhou Li, **CVPR**, 2023. [![](https://img.shields.io/github/stars/Sxjdwang/TalkLip?style=social&label=Code+Stars)](https://github.com/Sxjdwang/TalkLip)
 
 **2022**
-- [Predict-and-Update Network: Audio-Visual Speech Recognition Inspired by Human Speech Perception](https://arxiv.org/pdf/2209.01768.pdf), **Jiadong Wang**, Xinyuan Qian, Haizhou Li, **TASLP (under review)**, 2022.
 - [A Hybrid Learning Framework for Deep Spiking Neural Networks with One-Spike Temporal Coding](https://ieeexplore.ieee.org/abstract/document/9746792/), **Jiadong Wang**, Jibin Wu, Malu Zhang, Qi Liu, Haizhou Li. **ICASSP**, 2022.
 - [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9968308), Xinyuan Qian, Zhengdong Wang, **Jiadong Wang***, Guohui Guan, Haizhou Li, **TASLP**, 2022. [![](https://img.shields.io/github/stars/catherine-qian/TASLP2022-AVRI?style=social&label=Code+Stars)](https://github.com/catherine-qian/TASLP2022-AVRI)
 
@@ -75,6 +75,6 @@ My research interests are audio-visual speech recognition, talking face generati
 
 **Reviewer**
 
-- Reviewer of ICCV, ECCV, ACM MM, TMM, SIGGRAPH ASIA, IROS.
+- Reviewer of CVPR, ICCV, ECCV, ACM MM, TMM, SIGGRAPH ASIA, IROS.
 
 
