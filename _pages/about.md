@@ -42,7 +42,7 @@ My research interests are audio-visual speech recognition, talking face generati
 
 # 📝 Publication
 **2024**
-- [Analytic Class Incremental Learning for Sound Source Localization with Privacy Protection](https://ieeexplore.ieee.org/abstract/document/10771830), Xinyuan Qian, Xianghu Yue, Jiadong Wang, Huiping Zhuang, Haizhou Li, **SPL**, 2024.
+- [Analytic Class Incremental Learning for Sound Source Localization with Privacy Protection](https://ieeexplore.ieee.org/abstract/document/10771830), Xinyuan Qian, Xianghu Yue, **Jiadong Wang**, Huiping Zhuang, Haizhou Li, **SPL**, 2024.
 - [Predict-and-Update Network: Audio-Visual Speech Recognition Inspired by Human Speech Perception](https://arxiv.org/pdf/2209.01768.pdf), **Jiadong Wang**, Xinyuan Qian, Haizhou Li, **TASLP**, 2024.
 - [Enhancing Real-World Active Speaker Detection with Multi-Modal Extraction Pre-Training](https://arxiv.org/abs/2404.00861), Ruijie Tao, Xinyuan Qian, Rohan Kumar Das, Xiaoxue Gao, **Jiadong Wang***, Haizhou Li, **TMM**, 2024.
 - [Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal](https://arxiv.org/abs/2407.16957), Yeying Jin, Xin Li, **Jiadong Wang**, Yan Zhang, Malu Zhang, **ECCV**, 2024. [![](https://img.shields.io/github/stars/jinyeying/RaindropClarity?style=social&label=Code+Stars)](https://github.com/jinyeying/RaindropClarity)
