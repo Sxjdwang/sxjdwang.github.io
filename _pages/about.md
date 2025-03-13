@@ -32,7 +32,7 @@ My research interests are audio-visual speech recognition, talking face generati
 # 💼 Employment
 
 - *2024.04 - Now*, Postdoctor in MRI, Technical University of Munich, Germany.
-- *2023.08 - 2024.03*, Research Assistant in Chinese University of Hong kong, Shenzhen, China.
+
 
 # 🏫 Education
 
@@ -74,9 +74,8 @@ My research interests are audio-visual speech recognition, talking face generati
 
 - *2018.07 - 2018.12*, Visiting Student, Agency for Science, Technology and Research (A*STAR), Singapore, Singapore.
 - *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
+- *2023.08 - 2024.03*, Research Assistant in Chinese University of Hong kong, Shenzhen, China.
 
 **Reviewer**
 
 - Reviewer of CVPR, ICCV, ECCV, ACM MM, TMM, SIGGRAPH ASIA, IROS.
-
-
