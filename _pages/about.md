@@ -41,8 +41,11 @@ My research interests are audio-visual speech recognition, talking face generati
 - *2012.09 - 2016.06*, B.Eng. in Automation, Northeastern University, China.
 
 # 📝 Publication
+**2025**
+- [Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention](https://arxiv.org/pdf/2404.18501), Ruijie Tao, Xinyuan Qian, Yidi Jiang, Junjie Li, **Jiadong Wang***, Haizhou Li, **TASLP**, 2025.
+- [C2 AV-TSE: Context and Confidence-aware Audio Visual Target Speaker Extraction](https://arxiv.org/abs/2504.00750), Wenxuan Wu, Xueyuan Chen, Shuai Wang, **Jiadong Wang**, Lingwei Meng, Xixin Wu, Helen Meng, Haizhou Li, **JSTSP**, 2025.
+
 **2024**
-- [Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention](https://arxiv.org/pdf/2404.18501), Ruijie Tao, Xinyuan Qian, Yidi Jiang, Junjie Li, **Jiadong Wang***, Haizhou Li, **TASLP**, 2024.
 - [Analytic Class Incremental Learning for Sound Source Localization with Privacy Protection](https://ieeexplore.ieee.org/abstract/document/10771830), Xinyuan Qian, Xianghu Yue, **Jiadong Wang**, Huiping Zhuang, Haizhou Li, **SPL**, 2024.
 - [Predict-and-Update Network: Audio-Visual Speech Recognition Inspired by Human Speech Perception](https://arxiv.org/pdf/2209.01768.pdf), **Jiadong Wang**, Xinyuan Qian, Haizhou Li, **TASLP**, 2024.
 - [Enhancing Real-World Active Speaker Detection with Multi-Modal Extraction Pre-Training](https://arxiv.org/abs/2404.00861), Ruijie Tao, Xinyuan Qian, Rohan Kumar Das, Xiaoxue Gao, **Jiadong Wang***, Haizhou Li, **TMM**, 2024.
