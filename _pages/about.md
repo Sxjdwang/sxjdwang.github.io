@@ -29,6 +29,10 @@ My research interests are audio-visual speech recognition, talking face generati
   </tr>
 </table>
 
+# 🔥 Special Session
+
+We are organising a special session at ICASSP 2026 on *Multimodal Ambient Scene Perception, Understanding, and Modeling*. We warmly welcome submissions related to this topic. Further details are available in the [Poster](https://drive.google.com/file/d/1DAvWG-cMtaUk793brOsVoOdkSx4UPGG_/view?usp=drive_link).
+
 # 💼 Employment
 
 - *2024.04 - Now*, Postdoctor in MRI, Technical University of Munich, Germany.
