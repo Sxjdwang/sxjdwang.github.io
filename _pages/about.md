@@ -47,6 +47,7 @@ My research interests are audio-visual speech recognition, talking face generati
 
 # 📝 Publication
 **2025**
+- [The First MPDD Challenge: Multimodal Personality-aware Depression Detection](https://dl.acm.org/doi/abs/10.1145/3746027.3762020), Changzeng Fu, Zelin Fu, Qi Zhang, Xinhe Kuang, Jiacheng Dong, Kaifeng Su, Yikai Su, Wenbo Shi, Junfeng Yao, Yuliang Zhao, Shiqi Zhao, **Jiadong Wang**, Siyang Song, Chaoran Liu, Yuichiro Yoshikawa, Björn Schuller, Hiroshi Ishiguro, **ACM Multimedia**, 2025.
 - [Human-Inspired Computing for Robust and Efficient Audio-Visual Speech Recognition](https://arxiv.org/pdf/2408.16564), Qianhui Liu, **Jiadong Wang***, Yang Wang, Xin Yang, Gang Pan, Haizhou Li, **Transactions on Computers**, 2025.
 - [Audio-Visual Target Speaker Extraction with Reverse Selective Auditory Attention](https://arxiv.org/pdf/2404.18501), Ruijie Tao, Xinyuan Qian, Yidi Jiang, Junjie Li, **Jiadong Wang***, Haizhou Li, **TASLP**, 2025.
 - [C2 AV-TSE: Context and Confidence-aware Audio Visual Target Speaker Extraction](https://arxiv.org/abs/2504.00750), Wenxuan Wu, Xueyuan Chen, Shuai Wang, **Jiadong Wang**, Lingwei Meng, Xixin Wu, Helen Meng, Haizhou Li, **JSTSP**, 2025.
