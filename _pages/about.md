@@ -34,6 +34,7 @@ My research interests are audio-visual speech recognition, talking face generati
 - We are organising a special session at **ICASSP 2026** on *Multimodal Ambient Scene Perception, Understanding, and Modeling*. We warmly welcome submissions related to this topic. Further details are available in the [Poster](https://drive.google.com/file/d/1DAvWG-cMtaUk793brOsVoOdkSx4UPGG_/view?usp=drive_link).
 - *The 1st MPDD Challenge: Multimodal Personality-aware Depression Detection*, **ACM MM 2025**, Dublin, [Website](https://hacilab.github.io/MPDDChallenge.github.io/#HOME).
 - *The 1st Joint Workshop on Human Behavior Analysis and Interaction for Emotional Intelligence, with the 4th MiGA Challenge*, **IJCAI 2026**, Bremen, Coming Soon.
+- *Multimodal Personality-Aware Depression Detection via Audio-Visual Interview and Gait Analysis*, **ACM MM 2026**, Rio de Janeiro, [Website](https://hacilab.github.io/MPDD-AVG-2026.github.io/).
 
 # 💼 Employment
 
