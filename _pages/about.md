@@ -47,6 +47,11 @@ My research interests are audio-visual speech recognition, talking face generati
 - *2016.08 - 2019.06*, M.Sc. in Control Engineering, Zhejiang Univerisity, China.
 - *2012.09 - 2016.06*, B.Eng. in Automation, Northeastern University, China.
 
+# 👨🏻‍💻 Academic Services
+
+- Serve as an arXiv moderator for the sound category.
+- Serve as a reviewer for TPAMI, TIP, CVPR, ICCV, ECCV, ACM MM, TMM, SIGGRAPH ASIA, IROS, etc.
+
 # 📝 Publication
 **2025**
 - [The First MPDD Challenge: Multimodal Personality-aware Depression Detection](https://dl.acm.org/doi/abs/10.1145/3746027.3762020), Changzeng Fu, Zelin Fu, Qi Zhang, Xinhe Kuang, Jiacheng Dong, Kaifeng Su, Yikai Su, Wenbo Shi, Junfeng Yao, Yuliang Zhao, Shiqi Zhao, **Jiadong Wang**, Siyang Song, Chaoran Liu, Yuichiro Yoshikawa, Björn Schuller, Hiroshi Ishiguro, **ACM Multimedia**, 2025.
@@ -87,7 +92,4 @@ My research interests are audio-visual speech recognition, talking face generati
 - *2018.07 - 2018.12*, Visiting Student, Agency for Science, Technology and Research (A*STAR), Singapore, Singapore.
 - *2022.02 - 2022.08*, Visiting Student, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
 - *2023.08 - 2024.03*, Research Assistant in Chinese University of Hong kong, Shenzhen, China.
-
-**Reviewer**
-
-- Reviewer of TPAMI, TIP, CVPR, ICCV, ECCV, ACM MM, TMM, SIGGRAPH ASIA, IROS.
+ 
